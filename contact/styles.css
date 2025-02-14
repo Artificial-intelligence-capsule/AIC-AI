@@ -28,6 +28,8 @@ header {
 .logo {
     font-size: 24px;
     font-weight: bold;
+    color: black;
+    text-decoration-line : none;
 }
 
 nav {
