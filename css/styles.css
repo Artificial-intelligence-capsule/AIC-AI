@@ -25,11 +25,18 @@ header {
     top: 0;
 }
 
-.logo {
-    font-size: 24px;
+.logo  {
+    font-size: 30px;
     font-weight: bold;
+    text-decoration: none;
     color: white;
-    text-decoration-line : none;
+}
+
+.logo a {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
 }
 
 nav {
